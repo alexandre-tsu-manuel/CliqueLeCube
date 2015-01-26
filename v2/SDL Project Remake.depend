@@ -1,0 +1,93 @@
+# depslib dependency file v1.0
+1373464963 source:c:\users\camille\desktop\sdl project remake\music.cpp
+	<stdlib.h>
+	<fmod.h>
+	<string.h>
+
+1373810731 source:c:\users\camille\desktop\sdl project remake\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	<time.h>
+	"music.hpp"
+	"menu.main.hpp"
+
+1373464963 c:\users\camille\desktop\sdl project remake\music.hpp
+
+1373813346 c:\users\camille\desktop\sdl project remake\menu.main.hpp
+
+1373810586 source:c:\users\camille\desktop\sdl project remake\menu.button.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"menu.button.hpp"
+
+1373810529 c:\users\camille\desktop\sdl project remake\menu.button.hpp
+
+1373811080 source:c:\users\camille\desktop\sdl project remake\difficulty.cpp
+	"difficulty.hpp"
+
+1373812520 c:\users\camille\desktop\sdl project remake\difficulty.hpp
+
+1373812573 source:c:\users\camille\desktop\sdl project remake\menu.main.cpp
+	<SDL/SDL.h>
+	"music.hpp"
+	"SDL_extend.hpp"
+	"difficulty.hpp"
+	"menu.button.hpp"
+	"menu.rectangle.hpp"
+
+1373813122 c:\users\camille\desktop\sdl project remake\sdl_extend.hpp
+
+1373813040 c:\users\camille\desktop\sdl project remake\menu.rectangle.hpp
+
+1373813142 source:c:\users\camille\desktop\sdl project remake\menu.rectangle.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_rotozoom.h>
+	"SDL_extend.hpp"
+	"menu.rectangle.hpp"
+
+1373813182 source:c:\users\camille\desktop\sdl project remake\sdl_extend.cpp
+	<SDL/SDL.h>
+
+1373811080 source:c:\users\msi\desktop\sdl project remake\difficulty.cpp
+	"difficulty.hpp"
+
+1373812520 c:\users\msi\desktop\sdl project remake\difficulty.hpp
+
+1373810731 source:c:\users\msi\desktop\sdl project remake\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	<time.h>
+	"music.hpp"
+	"menu.main.hpp"
+
+1373464963 c:\users\msi\desktop\sdl project remake\music.hpp
+
+1373813346 c:\users\msi\desktop\sdl project remake\menu.main.hpp
+
+1373810586 source:c:\users\msi\desktop\sdl project remake\menu.button.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"menu.button.hpp"
+
+1373810529 c:\users\msi\desktop\sdl project remake\menu.button.hpp
+
+1373813142 source:c:\users\msi\desktop\sdl project remake\menu.rectangle.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_rotozoom.h>
+	"SDL_extend.hpp"
+	"menu.rectangle.hpp"
+
+1373813122 c:\users\msi\desktop\sdl project remake\sdl_extend.hpp
+
+1373813040 c:\users\msi\desktop\sdl project remake\menu.rectangle.hpp
+
+1373464963 source:c:\users\msi\desktop\sdl project remake\music.cpp
+	<stdlib.h>
+	<fmod.h>
+	<string.h>
+
+1373813182 source:c:\users\msi\desktop\sdl project remake\sdl_extend.cpp
+	<SDL/SDL.h>
+

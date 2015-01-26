@@ -1,0 +1,892 @@
+# depslib dependency file v1.0
+1370288279 source:c:\users\nqthqlie\documents\programmation\sdl project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	<stdlib.h>
+	<time.h>
+	"tout.hpp"
+
+1250308680 c:\program files\codeblocks\mingw\include\stdlib.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308674 c:\program files\codeblocks\mingw\include\_mingw.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files\codeblocks\mingw\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\mingw\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1250308682 c:\program files\codeblocks\mingw\include\sys\types.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\stdio.h
+	<_mingw.h>
+	<stddef.h>
+	<stdarg.h>
+	<sys/types.h>
+
+1250308678 c:\program files\codeblocks\mingw\include\malloc.h
+	<_mingw.h>
+	<stdlib.h>
+
+1250308678 c:\program files\codeblocks\mingw\include\memory.h
+	<string.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\string.h
+	<_mingw.h>
+	<stddef.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\strings.h
+	<string.h>
+
+1250308676 c:\program files\codeblocks\mingw\include\inttypes.h
+	<_mingw.h>
+	<stdint.h>
+	<stddef.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\stdint.h
+	<stddef.h>
+
+1250308676 c:\program files\codeblocks\mingw\include\ctype.h
+	<_mingw.h>
+	<stddef.h>
+
+1326114600 c:\program files\codeblocks\mingw\include\sdl\begin_code.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\close_code.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1250308678 c:\program files\codeblocks\mingw\include\process.h
+	<_mingw.h>
+	<sys/types.h>
+	<stdint.h>
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_keysym.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114588 c:\program files\codeblocks\mingw\include\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_platform.h
+
+1326114594 c:\program files\codeblocks\mingw\include\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\program files\codeblocks\mingw\include\begin_code.h
+
+1325742240 c:\program files\codeblocks\mingw\include\close_code.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_keysym.h
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1250308678 c:\program files\codeblocks\mingw\include\math.h
+	<_mingw.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\time.h
+	<_mingw.h>
+	<stddef.h>
+
+1325793194 c:\program files\codeblocks\mingw\include\sdl\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325793194 c:\program files\codeblocks\mingw\include\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1370431438 c:\users\nqthqlie\documents\programmation\sdl project\fonctions.hpp
+
+1370790315 source:c:\users\nqthqlie\documents\programmation\sdl project\fonctions.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL_rotozoom.h>
+	<pthread.h>
+	"tout.hpp"
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\gl.h
+
+1228534334 c:\program files\codeblocks\mingw\include\gl\glu.h
+	<stddef.h>
+	<GL/gl.h>
+
+1369401796 c:\users\nqthqlie\documents\programmation\sdl project\constantes.hpp
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl\sdl_getenv.h
+	"SDL_stdinc.h"
+
+1325742240 c:\program files\codeblocks\mingw\include\sdl_getenv.h
+	"SDL_stdinc.h"
+
+1369598555 source:c:\users\cesar\downloads\sdl project\sdl project\fonctions.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL_rotozoom.h>
+	"fonctions.hpp"
+
+1369595728 c:\users\cesar\downloads\sdl project\sdl project\fonctions.hpp
+
+1369598576 source:c:\users\cesar\downloads\sdl project\sdl project\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_getenv.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL.h>
+	<SDL_ttf.h>
+	<SDL_getenv.h>
+	<SDL_rotozoom.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	"fonctions.hpp"
+
+1330398152 c:\program files\codeblocks\mingw\include\fmod.h
+	"fmod_codec.h"
+	"fmod_dsp.h"
+	"fmod_memoryinfo.h"
+
+1330398152 c:\program files\codeblocks\mingw\include\fmod_codec.h
+
+1330398152 c:\program files\codeblocks\mingw\include\fmod_dsp.h
+
+1330398152 c:\program files\codeblocks\mingw\include\fmod_memoryinfo.h
+
+1103614986 c:\program files\codeblocks\mingw\include\sdl_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1103614986 c:\program files\codeblocks\mingw\include\sdl\sdl_rotozoom.h
+	<math.h>
+	"SDL.h"
+
+1370814362 source:c:\users\nqthqlie\documents\programmation\sdl project\jouer.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	"tout.hpp"
+
+1370287638 c:\users\nqthqlie\documents\programmation\sdl project\jouer.hpp
+
+1370119588 source:c:\users\tsunami33\downloads\sdl project\jouer.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	"fonctions.hpp"
+	"jouer.hpp"
+
+1370164318 c:\users\tsunami33\downloads\sdl project\fonctions.hpp
+
+1370118522 c:\users\tsunami33\downloads\sdl project\jouer.hpp
+
+1370119690 source:c:\users\tsunami33\downloads\sdl project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	<stdlib.h>
+	<time.h>
+	"fonctions.hpp"
+	"jouer.hpp"
+
+1370164292 source:c:\users\tsunami33\downloads\sdl project\fonctions.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL_rotozoom.h>
+	"fonctions.hpp"
+	"jouer.hpp"
+
+1370360943 source:c:\users\nqthqlie\documents\programmation\sdl project\bouton.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL_rotozoom.h>
+	"tout.hpp"
+
+1370800366 c:\users\nqthqlie\documents\programmation\sdl project\tout.hpp
+	"fonctions.hpp"
+	"bouton.hpp"
+	"jouer.hpp"
+	"gfx.hpp"
+
+1370327081 c:\users\nqthqlie\documents\programmation\sdl project\bouton.hpp
+
+989765248 c:\program files\codeblocks\mingw\include\pthread.h
+	<windows.h>
+	"config.h"
+	<time.h>
+	<signal.h>
+	<setjmp.h>
+	<limits.h>
+	"need_errno.h"
+	<errno.h>
+	<sched.h>
+	<sys/types.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\windows.h
+	<winresrc.h>
+	<stdarg.h>
+	<windef.h>
+	<wincon.h>
+	<winbase.h>
+	<wingdi.h>
+	<winuser.h>
+	<winnls.h>
+	<winver.h>
+	<winnetwk.h>
+	<winreg.h>
+	<winsvc.h>
+	<cderr.h>
+	<dde.h>
+	<ddeml.h>
+	<dlgs.h>
+	<imm.h>
+	<lzexpand.h>
+	<mmsystem.h>
+	<nb30.h>
+	<rpc.h>
+	<shellapi.h>
+	<winperf.h>
+	<commdlg.h>
+	<winspool.h>
+	<winsock2.h>
+	<winsock.h>
+	<ole2.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winresrc.h
+	<winuser.h>
+	<winnt.h>
+	<winver.h>
+	<dde.h>
+	<dlgs.h>
+	<commctrl.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\winuser.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnt.h
+	<winerror.h>
+	<string.h>
+	<basetsd.h>
+	<pshpack4.h>
+	<poppack.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winerror.h
+
+1228534312 c:\program files\codeblocks\mingw\include\basetsd.h
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack4.h
+
+1228534324 c:\program files\codeblocks\mingw\include\poppack.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winver.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dde.h
+
+1228534314 c:\program files\codeblocks\mingw\include\dlgs.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commctrl.h
+	<prsht.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\prsht.h
+
+1228534332 c:\program files\codeblocks\mingw\include\windef.h
+	<winnt.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\wincon.h
+
+1228534330 c:\program files\codeblocks\mingw\include\winbase.h
+
+1228534332 c:\program files\codeblocks\mingw\include\wingdi.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnls.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winnetwk.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winreg.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsvc.h
+
+1228534312 c:\program files\codeblocks\mingw\include\cderr.h
+
+1228534314 c:\program files\codeblocks\mingw\include\ddeml.h
+
+1228534316 c:\program files\codeblocks\mingw\include\imm.h
+
+1228534320 c:\program files\codeblocks\mingw\include\lzexpand.h
+
+1228534322 c:\program files\codeblocks\mingw\include\mmsystem.h
+
+1228534322 c:\program files\codeblocks\mingw\include\nb30.h
+
+1228534326 c:\program files\codeblocks\mingw\include\rpc.h
+	<windows.h>
+	<rpcdce.h>
+	<rpcnsi.h>
+	<rpcnterr.h>
+	<winerror.h>
+	<excpt.h>
+
+1228534326 c:\program files\codeblocks\mingw\include\rpcdce.h
+	<basetyps.h>
+	<rpcdcep.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\basetyps.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcdcep.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsi.h
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnterr.h
+
+1250308676 c:\program files\codeblocks\mingw\include\excpt.h
+	<_mingw.h>
+	<windef.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\shellapi.h
+	<pshpack2.h>
+	<poppack.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\pshpack2.h
+
+1228534332 c:\program files\codeblocks\mingw\include\winperf.h
+
+1228534314 c:\program files\codeblocks\mingw\include\commdlg.h
+	<unknwn.h>
+	<prsht.h>
+
+1228534330 c:\program files\codeblocks\mingw\include\unknwn.h
+	<windows.h>
+	<objfwd.h>
+	<wtypes.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objfwd.h
+	<basetyps.h>
+
+1228534334 c:\program files\codeblocks\mingw\include\wtypes.h
+	<rpc.h>
+	<rpcndr.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcndr.h
+	<rpcnsip.h>
+	<objfwd.h>
+
+1228534328 c:\program files\codeblocks\mingw\include\rpcnsip.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winspool.h
+
+1228534334 c:\program files\codeblocks\mingw\include\winsock2.h
+	<windows.h>
+
+1228534332 c:\program files\codeblocks\mingw\include\winsock.h
+	<windows.h>
+	<mswsock.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\mswsock.h
+
+1228534324 c:\program files\codeblocks\mingw\include\ole2.h
+	<winerror.h>
+	<objbase.h>
+	<olectlid.h>
+	<oleauto.h>
+	<oleidl.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objbase.h
+	<rpc.h>
+	<rpcndr.h>
+	<stdlib.h>
+	<basetyps.h>
+	<wtypes.h>
+	<unknwn.h>
+	<objidl.h>
+	<cguid.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\objidl.h
+	<objfwd.h>
+
+1228534312 c:\program files\codeblocks\mingw\include\cguid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\olectlid.h
+
+1228534324 c:\program files\codeblocks\mingw\include\oleauto.h
+	<oaidl.h>
+
+1228534322 c:\program files\codeblocks\mingw\include\oaidl.h
+	<windows.h>
+	<ole2.h>
+
+1228534324 c:\program files\codeblocks\mingw\include\oleidl.h
+	<objfwd.h>
+
+1250308680 c:\program files\codeblocks\mingw\include\signal.h
+	<_mingw.h>
+
+1250308678 c:\program files\codeblocks\mingw\include\setjmp.h
+	<_mingw.h>
+
+1250308678 c:\program files\codeblocks\mingw\include\limits.h
+	<_mingw.h>
+
+1250308676 c:\program files\codeblocks\mingw\include\errno.h
+	<_mingw.h>
+
+989765248 c:\program files\codeblocks\mingw\include\sched.h
+	"need_errno.h"
+	<errno.h>
+	<sys/types.h>
+	<time.h>
+
+1371075658 source:c:\users\nqthqlie\documents\programmation\sdl project\gfx.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	"tout.hpp"
+
+1370987951 c:\users\nqthqlie\documents\programmation\sdl project\gfx.hpp
+
+1372205269 source:c:\users\camille\desktop\sdl project\fonctions.cpp
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL_rotozoom.h>
+	<pthread.h>
+	"tout.hpp"
+
+1372177925 c:\users\camille\desktop\sdl project\tout.hpp
+	"bouton.hpp"
+	"fonctions.hpp"
+	"jouer.hpp"
+	"gfx.hpp"
+
+1372178171 c:\users\camille\desktop\sdl project\fonctions.hpp
+
+1372040829 c:\users\camille\desktop\sdl project\bouton.hpp
+
+1372043199 c:\users\camille\desktop\sdl project\jouer.hpp
+
+1370987951 c:\users\camille\desktop\sdl project\gfx.hpp
+
+1371075658 source:c:\users\camille\desktop\sdl project\gfx.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	"tout.hpp"
+
+1372956171 source:c:\users\camille\desktop\sdl project\jouer.cpp
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<fmod.h>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	"bouton.hpp"
+	"fonctions.hpp"
+	"jouer.hpp"
+
+1372956115 source:c:\users\camille\desktop\sdl project\main.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<fmod.h>
+	<time.h>
+	"bouton.hpp"
+	"fonctions.hpp"
+	"jouer.hpp"
+
+1372956026 source:c:\users\camille\desktop\sdl project\bouton.cpp
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	"bouton.hpp"
+
